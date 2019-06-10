@@ -9,7 +9,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.142.19/dangdang.ipa</string>
+                    <string>http://192.168.142.135/dangdang.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -17,13 +17,13 @@
                 <key>bundle-identifier</key>
                 <string>com.dangdang.iphone</string>
                 <key>bundle-version</key>
-                <string>9.5.2.2</string>
+                <string>9.5.2</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>releaseNotes</key>
-                <string>测试OTA</string>
+                <string>OTA</string>
                 <key>title</key>
-                <string>在线安装测试</string>
+                <string>在线安装</string>
             </dict>
         </dict>
     </array>
